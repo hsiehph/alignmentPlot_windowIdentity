@@ -1,0 +1,9 @@
+---
+runByPairFASTA: True
+
+FASTA:
+    VMRC53_hapB_dupA: /net/eichler/vol27/projects/human_diversity/nobackups/TCAF/benson_phyloAnalyses/dupA/testGeneCov/fastaFiles/VMRC53_hapB_dupA.fasta
+    VMRC64_hapA_dupA: /net/eichler/vol27/projects/human_diversity/nobackups/TCAF/benson_phyloAnalyses/dupA/testGeneCov/fastaFiles/VMRC64_hapA_dupA.fasta
+
+addline_onY: 0.998
+
