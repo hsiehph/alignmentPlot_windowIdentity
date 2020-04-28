@@ -1,5 +1,5 @@
 # alignmentPlot_windowIdentity
-The pipeline is consists of three steps:
+The pipeline consists of three steps:
   1) using MAFFT to produce pairwise sequence alignments;
   2) runs a custom PYTHON script to smooth identity along the alignment using three choices of windows/steps;
   3) plot the results using R (ggplot2)
